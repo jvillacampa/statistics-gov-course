@@ -25,6 +25,11 @@
 ###############################################.
 ## SPARQL queries ----
 ###############################################.
+# Examples queries:
+# https://github.com/Swirrl/sg-training-material/tree/master/sg-training-r-project
+# https://github.com/LiamCavin/sparql-queries
+# https://github.com/GregorBoyd/sparql-queries/tree/master/Queries
+
 ### Prefix are the same as alias, to save time/space typing
 # Similar to SQL: select x, y, z where conditions macthed, no FROM, and the 
 # where relates to the triplets
